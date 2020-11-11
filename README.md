@@ -38,6 +38,7 @@
 
 
 ---
+### HW#4
 #### secant.m
 * Where f(x) = x^3-6x^2+11x-6.1
 * At x^(-1)=2.5 and x_0=3.5, computing the highest real root using the secant method
